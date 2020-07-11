@@ -1,0 +1,31 @@
+{
+  "name": "exif-cli",
+  "version": "1.0.0",
+  "description": "Extract exif information with the command line. Can scan directories and sub-directories. Provides a CSV list as output that you can use in Excel afterwards.",
+  "main": "cli.js",
+  "bin": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smart-Villages/exif-cli.git"
+  },
+  "keywords": [
+    "exif",
+    "jpeg",
+    "cli",
+    "jpg",
+    "csv"
+  ],
+  "author": "Thiemo Müller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Smart-Villages/exif-cli/issues"
+  },
+  "homepage": "https://github.com/Smart-Villages/exif-cli#readme",
+  "dependencies": {
+    "commander": "^5.1.0",
+    "jpeg-exif": "^1.1.4"
+  }
+}

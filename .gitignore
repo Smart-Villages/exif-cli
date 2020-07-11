@@ -1,0 +1,9 @@
+
+# NPM
+node_modules
+
+# IDE
+/.idea
+
+# Example images
+/examples
