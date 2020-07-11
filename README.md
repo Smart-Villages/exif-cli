@@ -27,7 +27,7 @@ Includes all sub-directories.
 Example output:
 ```
 Directory1,Filename,DateTime,Latitude,Longitude,Altitude
-images,IMG_20200618_111954.jpg,2020:06:18 11:19:54,1.0154813527777777,32.72925186138889,1034.6
+images,IMG_20200618_111954.jpg,2020:06:18 11:19:54,7.0154813527777777,13.72925186138889,1034.6
 ```
 
 ## Extract data from a specific image
