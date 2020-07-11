@@ -1,9 +1,20 @@
 # Introduction
 The `exif-cli` tool allows you to extract geotags from JPEG and TIFF files. It returns a CSV that contains the file path, datetime when the picture was taken and the latitude, longitude, altitude information from their EXIF.
 
+# Requirements
+
+You require node.js and npm to be installed on your local machine to use this tool.
+
 # Installation
 
-Run:
+Clone this repository:
+
+`git clone git@github.com:Smart-Villages/exif-cli.git && cd exif-cli`
+
+If you don't have git, you can also download the files directly from here: https://github.com/Smart-Villages/exif-cli/archive/master.zip
+
+In the folder of the project, run:
+
 `npm i -g .`
 
 # Usage
